@@ -26,15 +26,9 @@ This is how the calculator looks in the terminal:
 - Loop and switch-case for flow control  
 - Method creation and usage in Java
 
-## 📁 Project Structure
+## 📂 Project Folder Structure
 
-Java-CLI-Calculator/
-│
-├── Calculator.java      
-├── README.md             
-├── .gitignore          
-├── LICENSE  
-
+![Folder Screenshot](FolderStructure.png)
 
 ## 🔗 GitHub Repo
 
