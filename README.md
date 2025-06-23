@@ -28,7 +28,13 @@ This is how the calculator looks in the terminal:
 
 ## 📂 Project Folder Structure
 
-![Folder Screenshot](FolderStructure.png)
+Java-CLI-Calculator/
+│
+├── 📄 Calculator.java        
+├── 📄 README.md                
+├── 📄 .gitignore              
+├── 📄 LICENSE                 
+├── 📷 Screenshot.png 
 
 ## 🔗 GitHub Repo
 
