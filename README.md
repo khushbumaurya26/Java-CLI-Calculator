@@ -15,11 +15,9 @@ This is a simple command-line calculator built using Java for a Java Developer I
 
 ## 🧪 Sample Run
 
-Choose operation: + - * / or type 'exit' to quit
-+
-Enter first number: 10
-Enter second number: 20
-Result: 30.0
+This is how the calculator looks in the terminal:
+
+![CLI Calculator](Screenshot.png)
 
 ## 🧠 What I Learned
 
